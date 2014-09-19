@@ -1,11 +1,11 @@
 {
-	"full_name": "Audrey Roy",
-	"email": "audreyr@gmail.com",
-	"github_username": "audreyr",
-	"project_name": "Python Boilerplate",
-	"repo_name": "boilerplate",
-	"project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
-	"release_date": "2014-01-11",
+	"full_name": "Tulio Ruiz",
+	"email": "tulio@vauxoo.com",
+	"github_username": "ruiztulio",
+	"project_name": "Le Project",
+	"repo_name": "le_repo",
+	"project_short_description": "Base Cookiecutter image, don't forget to change it",
+	"release_date": "2014-09-19",
 	"year": "2014",
 	"version": "0.1.0"
 }
